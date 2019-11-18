@@ -58,12 +58,12 @@ $ go run main.go speed fan 20 25  35 25  50 55  60 100
 
 ## License
 
-coolctl – A cross-platform driver for NZXT Kraken X (X42, X52, X62 or X72).
+coolctl – A cross-platform driver for NZXT Kraken X (X42, X52, X62 or X72).  
 Copyright (c) 2019 Arkadius Stefanski
 
-coolctl is a Golang-Port of [liquidctl](https://github.com/jonasmalacofilho/liquidctl).
-Copyright (C) 2018–2019 [Jonas Malaco](https://github.com/jonasmalacofilho)
-Copyright (C) 2018–2019 each contribution's author
+coolctl is a Golang-Port of [liquidctl](https://github.com/jonasmalacofilho/liquidctl).  
+Copyright (C) 2018–2019 [Jonas Malaco](https://github.com/jonasmalacofilho)  
+Copyright (C) 2018–2019 each contribution's author  
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
