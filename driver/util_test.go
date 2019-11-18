@@ -1,3 +1,7 @@
+// coolctl – A cross-platform driver for NZXT Kraken X (X42, X52, X62 or X72).
+// Copyright (c) 2019 Arkadius Stefanski
+
+// Package driver contains all code for controlling devices
 package driver
 
 import (

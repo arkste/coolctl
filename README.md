@@ -56,6 +56,17 @@ $ go run main.go speed pump 20 60  35 60  55 100  60 100
 $ go run main.go speed fan 20 25  35 25  50 55  60 100
 ```
 
-## Credits
+## License
 
-coolctl is a Golang-Port of [liquidctl](https://github.com/jonasmalacofilho/liquidctl) by [Jonas Malaco](https://github.com/jonasmalacofilho).
+coolctl – A cross-platform driver for NZXT Kraken X (X42, X52, X62 or X72).
+Copyright (c) 2019 Arkadius Stefanski
+
+coolctl is a Golang-Port of [liquidctl](https://github.com/jonasmalacofilho/liquidctl).
+Copyright (C) 2018–2019 [Jonas Malaco](https://github.com/jonasmalacofilho)
+Copyright (C) 2018–2019 each contribution's author
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
